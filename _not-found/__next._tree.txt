@@ -1,2 +1,2 @@
-:HL["/vpt-avia-demo/_next/static/css/075274db7dcc72a6.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"QKfpuE2ZRs6zC6IekRf2S"}
+:HL["/vpt-avia-demo/_next/static/css/5eb9399192a8cb6d.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"IV7TkXihPkVcUiaefRtmX"}
